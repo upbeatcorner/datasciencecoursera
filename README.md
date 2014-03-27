@@ -1,23 +1,17 @@
 Building a web scraper
 ==============
 
-Welcome to the Mizzou/IRE course on building a web scraper, being held in Columbia from Oct. 10-13, 2013.
+Welcome to the Hacks and Hackers course on building a web scraper. This class is based off of the content from a class originally taught and hosted by MizzoU and IRE (please follow fork to see the original materials).
 
 Although the stated goal of this course is to introduce the concepts of web scraping, we will also spend time covering programming fundamentals that can be applied to other problems, from data analysis to web development.
 
 ## Course logistics
 
-The course will begin Thursday, Oct. 10, and end on Sunday, Oct. 13. It will be held in the Lambert Room, which is room 200 in the Reynolds Journalism Institute building on 9th Street.
+This course was originally taught over a couple of days. We are teaching a condensed version of the course.
 
-The format of the course is subject to change, but the rough schedule looks like this:
-
-*Thursday, Oct. 10*, 5 - 8 p.m.: Introductions, computer setup and covering the basics of command line navigation.
-
-*Friday, Oct. 11*, 9 a.m. - 5 p.m.: More command line basics; Python programming basics; a review of HTML/CSS and Javascript in the context of web scraping; and building our first web scraper.
-
-*Saturday, Oct. 12*, 9 a.m. - 5 p.m.: Build a web scraper on your own (!) and learn about more sophisticated scraping techniques, such as manipulating forms.
-
-*Sunday, Oct. 13*, 9 a.m. - Noon: Questions, review and wrapup.
+* 30 minutes for setting up
+* 1 hour for walk through of script
+* 30 minutes of wrap up & future application
 
 ## Software requirements
 
@@ -27,12 +21,16 @@ We will need some place to edit and write code. If you don't already have a code
 
 In addition to Python, we'll also be making use of the Chrome web browser. Although it isn't required, we'd also recommend you check out [git](https://help.github.com/articles/set-up-git), version control software so you can download the course materials after you leave.
 
-No worries if you don't have this software already installed. We'll help you set up everything on Thursday evening.
+No worries if you don't have this software already installed. We'll help you set up everything up.
 
 ## Contact
 
-This course will be taught primarily by Chase Davis, of The New York Times; Presidential Innovation Fellow Jackie Kazil, formerly of The Washington Post; and Matt Wynn, of the Omaha World-Herald. If you have any questions, you can reach us here:
+The modified version of this course was taught by:
+- Jackie Kazil: jackiekazil@gmail.com
+- TODO -- add your name
 
-- Chase: chase.davis@gmail.com
-- Jackie: jackiekazil@gmail.com
-- Matt: matt.wynn@gmail.com
+
+The original course was created and taught by:
+- Chase Davis, of The New York Times: chase.davis@gmail.com
+- Jackie Kazil, formerly of The Washington Post: jackiekazil@gmail.com
+- Matt Wynn, of the Omaha World-Herald: matt.wynn@gmail.com
